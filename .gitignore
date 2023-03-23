@@ -9,7 +9,6 @@ citizen/
 *.ymap
 *.ybn
 *.ytyp
-*.lua
 *.dll
 *.crt
 *.key
