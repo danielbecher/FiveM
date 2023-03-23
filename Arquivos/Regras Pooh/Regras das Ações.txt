@@ -1,0 +1,120 @@
+Luneta
+#7137
+StarBase VRP 100% Config
+
+P.Barros |718/11/2019
+REGRAS DE SEQUESTRO
+S1 - É permitido sequestro desde que seja realizada abordagem correta dentro das regras.
+S2 - Caso a pessoa sozinha seja abordada por mais de uma pessoa, não terá chance de reagir ao sequestro (amor à vida).
+S3 - Caso a pessoa seja abordada apenas por 1 pessoa, terá chance de reagir ao sequestro.
+S4 - É permitido sequestro de policiais desde que seja realizada abordagem correta dentro das regras.
+S5 - Valores de sequestro referente a pessoas deverá ser pedido para amigos e familiares em ultima exceção negociar com a polícia.
+S6 - Após o sequestro, o tempo limite para a negociação do resgate é de 30 minutos.
+S7 - Valores de sequestro de agentes públicos será negociado com a polícia. Os quais não passarão de R$50.000,00 para liberação.
+S8 - Proibido pedir para sacar o dinheiro do banco ou exigir veículos na negociação.
+S9 - Proibido usar amigos como refém em caso de assaltos.(Sujeito a Ban).
+S10 - Para sequestrar civil deverá ter no mínimo 2 e no máximo 3 integrantes na ação, bem como no mínimo 3 policiais em serviço. (Refém não pode ser amigo do grupo)
+S11 - É proibido praticar sequestros utilizando os empregos legais como vantagem.
+S12 - É proibido praticar sequestros a pessoas contratadas para o serviço legal.
+S13 - A vítima não poderá identificar o sequestrador caso ele esteja com mascara, apenas poderá identificar, após o sequestro, o veículo e roupa utilizados na ação.
+S14 - Caso a vítima venha ao óbito, esquecerá tudo que aconteceu.
+S15 - Vítimas não poderão ser abordadas em área safe.
+
+Obs: Proibido pedir dinheiro de resgate de players normais para a polícia ou governo, pode ser pedido resgate a familiares e amigos do mesmo.
+ROUBO A LOJA
+
+Mínimo: 2 bandidos (máximo um fora da loja caso mais de 2) / 3 policiais (para iniciar assalto).
+Comunicação: /190
+Máximo: 4 bandidos (máximo um fora da loja) / 4 Policiais.
+Regra:  É proibido a entrada ou interferência de bandidos ou policiais ou outras pessoas após o início da ação.
+Armamentos: Armas Brancas, Pistola ou Taser. Válido para ambos.
+Distancia: Quadra do local.
+Veículos: Todos menos blindados e Helicópteros (valido para pm e bandidos). Proibido colocar veículos dentro da loja.
+Tempo para sair: 10 minutos após finalizar assalto.
+Investigação: Use disfarce para evitar ser reconhecido / Veiculo pessoal pode ser identificada placa.
+Rendição: Será reduzido 2/3 da pena.
+Penalidade: 20 anos.
+Fiança: 25 mil.
+ROUBO A LOJA c/ REFÉM
+
+Minimo: 2 bandidos (maximo um fora da loja caso mais de 2) / 3 policiais (para iniciar assalto).
+Comunicação: /190 informar situação.
+Máximo: 4 bandidos (ninguem fora) / 5 Policiais.
+Refem: Maximo 1 refem.
+Negociação: Policiais não fornecem armamentos nem dinheiro.
+Regra:  É proibido a entrada ou interferência de bandidos ou policiais ou outras pessoas após o início da ação.
+Armamentos: Armas Brancas ou de fogo (menos explosivos e sniper) Valido para ambos.
+Distancia: Quadra do local.
+Veiculos: Todos menos blindados (qualquer parte do veiculo) e Helicópteros (valido para pm e bandidos). Proibido colocar veiculos dentro da loja.
+Tempo para sair: Indeterminado.
+Investigação: Use disfarce para evitar ser reconhecido / Veiculo pessoal pode ser identificada placa.
+Rendição: Será reduzido 2/3 da pena.
+Penalidade: 35 anos.
+Fiança: 70 mil.
+ROUBO A BANCO e JOALHERIA
+
+Minimo: 4 bandidos (maximo 1 fora do banco) / 4 policiais (para iniciar assalto).
+Comunicação: /190
+Máximo: Quantidade de PMs em PTR (maximo 2 fora do banco) / Não há máximo de policiais.
+Regra:  É proibido a entrada ou interferência de bandidos ou policiais ou outras pessoas, após o início da ação.
+Armamentos: Miliantes: Armas Brancas ou de fogo (menos explosivos e sniper). /  Policiais: Todas as armas do arsenal.
+Distancia: Quadra do local.
+Veiculos: Miliantes: Todos menos blindados e Helicópteros. / Policiais: Helicóptero e blindados. (Proibido colocar veiculos dentro do banco.)
+Tempo para sair: 10 minutos após finalizar assalto.
+Investigação: Use disfarce para evitar ser reconhecido / Veiculo pessoal pode ser identificada placa.
+Rendição: Será reduzido 2/3 da pena.
+Penalidade: 35 anos.
+Fiança: 80 mil.
+ROUBO A BANCO E JOALHERIA c/ REFÉM
+
+Minimo: 4 bandidos (maximo 1 fora do banco) / 4 policiais (para iniciar assalto).
+Comunicação: /190
+Máximo: Quantidade de PMs em PTR (maximo 2 fora do banco) / Não há máximo de policiais.
+Regra:  É proibido a entrada ou interferência de bandidos ou policiais ou outras pessoas, após o início da ação.
+Armamentos: Miliantes: Armas Brancas ou de fogo (menos explosivos e sniper). /  Policiais: Todas as armas do arsenal.
+Distancia: Quadra do local.
+Veiculos: Miliantes: Todos menos blindados e Helicópteros. / Policiais: Helicóptero e blindados. (Proibido colocar veiculos dentro do banco.)
+Tempo para sair:  maximo 30 minutos em posse  de refem.
+Investigação: Use disfarce para evitar ser reconhecido / Veiculo pessoal pode ser identificada placa.
+Rendição: Será reduzido 2/3 da pena.
+Penalidade: 40 anos.
+Fiança: inafiançável.
+Assalto com Refém
+#01 - Todo refém pode ficar custodiado durante 30 minutos. Passando esse tempo, qualquer adm pode anular a ação. Comprovando o tempo é claro e salvo casos de crash, etc.
+#02 - Durante 1200 segundos do assalto ao banco central a negociação deve ser realizada com exigências do sequestradores para fuga e dentro das demais leis a polícia deve acatar com negociação de fuga de 5 segundos, 10 segundos ou 15 segundos.
+#03 - Não pode ser exigido troca por armas/colete, helicóptero e dinheiro. Não é cabível outras exigências, o bandido que rouba o banco, a intenção é fugir são e salvo e com a grana.
+#04 - Todos os bandidos têm que sair.
+Exemplo: Não é possível a negociação de 1 ou 2 bandidos saírem e ficarem a salvo e os outros se entregarem junto com os reféns ou os reféns saírem e os bandidos se encurralarem no banco à espera da invasão.
+Adendo 1: Temos que dar chance da polícia fazer a busca e o RP de negociação e interação, de forma que a parte mais inteligente ou com mais experiência saia com a vantagem. 
+Adendo 2: Ao que se entende assalto com REFÉM é ação ganha para os bandidos. Não se deve forçar demais uma negociação e uma vontade sem ter benefícios para ambos os lados.
+REGRAS DE ASSALTO A CIVIL-
+AC1 - É permitido sequestro desde que seja realizada abordagem correta dentro das regras.
+AC2 - Caso a pessoa seja abordada por mais de uma pessoa não terá chance de reagir ao assalto (amor à vida).
+AC3 - Caso a pessoa seja abordada apenas por 1 pessoa, terá chance de reagir ao assalto.
+AC4 - Proibido pedir para sacar o dinheiro do banco, ou exigir veículos no assalto.
+AC5 - Para assaltar civil deverá ter no máximo 4 integrantes na ação e no mínimo 1 policial em serviço para cada bandido (3 Bandidos =  3 Pm's em PTR ou Mais) (mesmo em zonas PVP).
+AC6 - É proibido praticar assaltos utilizando os empregos legais como vantagem.
+AC7 - É proibido praticar assaltos a pessoas contratadas para o serviço legal. (caso estejam usando uniformes ou veiculos do trabalho).
+AC8 - Após ser morto, a comunicação automaticamente estará cortada.
+AC9 - Após ser abordado, a vítima tem, automaticamente, a comunicação cortada
+AC10 - A vítima não poderá identificar o assaltante caso ele esteja com máscara, apenas poderá identificar, após o assalto, o veículo e roupa utilizados na ação.
+AC11 - Caso a vítima venha ao óbito, esquecerá tudo que aconteceu.
+AC12 - Vítimas não poderão ser abordadas em área safe.
+- Proibido o uso de Coletes extras. Deixando claro que é válido somente o uso do colete que está equipado!
+- Proibido o uso do Cover para disparos. O bug deixa a pessoa invisível ou não da o efeito sonoro de tiro. Deve-se utilizar o cover somente para se abrigar. Casos vistos por adm's e clipados ou printados (print's claros) Serão advertidos com 60 min de inferno/banimento
+- Proibido Camperar em Área Safe
+- Estritamente Proibido Camperar (Esperar Alguém Sair De Zona Safe e Farm's Para Cometer Algum Crime ou Algo do Gênero)
+P.Barros |706/01/2020
+ROUBO A CAIXA ELETRÔNICO
+
+Mínimo: 2 bandidos (ambos na localidade) / 3 policiais (para iniciar assalto).
+Comunicação: /190
+Máximo: 3 bandidos (na localidade) / 4 Policiais.
+Regra:  É proibido a entrada ou interferência de bandidos ou policiais ou outras pessoas após o início da ação.
+Armamentos: Armas Brancas, Pistola ou Taser. Válido para ambos.
+Distancia: Meia quadra do local.
+Veículos: Todos menos blindados e Helicópteros (valido para pm e bandidos). Proibido colocar veículos tentando bugar o local.
+Investigação: Use disfarce para evitar ser reconhecido / Veiculo pessoal pode ser identificado pela placa.
+Rendição: Será reduzido 2/3 da pena.
+Penalidade: 10 anos.
+Fiança: 25 mil.

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData> 
+
+
+
+
+
+
+
+
+
+
+    <Item>
+      <modelName>fleet72</modelName>
+       <colors>
+        <Item>
+          <indices content="char_array"> <!-- COTILLION WHITE (2058) -->
+            131
+            0
+            0
+			0
+			0
+            131
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- CONTESSA PEWTER METALLIC (2429) -->
+            7
+            5
+            0
+            0
+			0
+			0 
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- MAYFAIR GREY METALLIC (2430) -->
+            3
+            5
+            0
+            0
+			0
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- SABLE BLACK (9400) -->
+            0 
+            0
+            0
+			0
+			0
+            107
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- ADRIATIC TURQUOISE METALLIC (2168) -->
+            68
+            5
+            0
+			0
+			0
+            68
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- ZODIAC BLUE METALLIC (2328) -->
+            70
+            0
+            0
+			0
+			0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- ST. NORTIZ BLUE FIREMIST (2457) -->
+            73
+            68
+            0
+			0
+			0
+            131
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- BRITTANY BLUE METALLIC (2330) -->
+            62
+            68
+            0
+			0
+			0
+            68
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- BALMORAL GREEN FIREMIST (2460) -->
+            51
+            56
+            0
+            0
+			0
+			0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- WILLOW (2441) -->
+            100
+            100
+            0
+			0
+			0
+            50
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- PROMENADE GOLD METALLIC (2442) -->
+            102
+            52
+            0
+			0
+			0
+            37
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- BREWSTER GREEN METALLIC (2440) -->
+            50
+            50
+            0
+			0
+			0
+            50
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- PALOMNO FIREMIST (2458) -->
+            37
+            37
+            0
+			0
+			0
+            37
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- COGNAC METALLIC (2452) -->
+            98
+            0
+            0
+			0
+			0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array"> <!-- CORONATION RED METALLIC (2453) -->
+            27
+            0
+			0
+			0
+            0
+            27
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> <!-- CAMBRIDGE RED METALLIC (2348) -->
+            32
+            111
+            0
+			0
+			0
+            32
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>Yellow Plate</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="499" />
+      <sirenSettings value="0" />
+    </Item>
+
+
+
+
+
+
+
+
+
+
+  </variationData>
+</CVehicleModelInfoVariation>

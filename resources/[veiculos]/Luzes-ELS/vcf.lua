@@ -1,0 +1,16 @@
+vcf_files = {
+	--"trpmerj.xml",
+	--"bmw1200gs.xml",
+	--"versapmerj.xml",
+	--"tchcop.xml",
+	"sprintersamu.xml",
+	--"pmerj.xml",
+	--"bpchq.xml",
+	"police3.xml",
+	"police.xml",
+	"spinpc.xml",
+	"trailpc.xml",
+	"hiluxgarra.xml",
+	"hiluxcivil.xml",
+	"pbus.xml",
+}

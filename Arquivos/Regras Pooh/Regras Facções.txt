@@ -1,0 +1,59 @@
+***→ Regras de Facções***
+```01. Obrigatório uso da tag da FACÇÃO no discord,  ex: [Dust] Mario;
+02. O limite de membros de uma facção é mínimo 4 e máximo 10;
+03. Não é permitido pessoas de fora da facção fazer ações em conjunto com a facção;
+04. Para a gangue realizar o domínio de um território é necessário 4 membros na hora da ação;
+05. Se o território já estiver dominado por outra gangue é necessário ter membros da gangue dominante online para realizar uma ação de conquista;
+06. Máximo de gangues ao tentar dominar ou continuar dominante do território são 8 players;
+07. É obrigatório estar no discord quando estiver in-game;
+08. É permitido o uso de máscaras nas ações, porém, se for pego usando-a fora destas, a polícia terá carta branca para multar ou tomar providências mais drásticas;
+09. É proibido assaltar ou sequestrar Socorristas em Plantão;
+10. Para sequestrar um policial, é necessário todo um enredo por trás (Cidade de criação de conteúdo);
+11. Apenas é permitido que as facções criem ALIANÇAS ECONÔMIAS;
+12. É proibido que facções Farmem ou façam quaisquer tipos de ações juntas;
+13. As áreas das facções possuem PVP liberado, mas isso não significa chegar dando tiro sem motivo nenhum;
+14. Invasões precisam ser avisadas para que haja planejamento e roleplay dos dois lados;
+15. Cop-Bait será Advertido, fugir da polícia para sua facção é aceitável, mas se isso for muito recorrente e/ou proposital, será advertido;
+16. Não é permitido vender drogas para Americanos dentro das dependências de sua facção;
+17. É permitido lootear policiais dentro das dependências da facção```
+
+
+
+
+REGRAS DE FACÇÕES
+
+RF1 - Obrigatório uso da tag da FACÇÃO no discord,  ex: [PCC] Mario
+RF2 - O limite de membros de uma facção é mínimo 3 máximo 8. Não é permitido pessoas de fora da facção fazer ações em conjunto com a facção.
+RF3 - Para a gangue realizar o domínio de um território é necessário 4 membros na hora da ação.
+RF4 - Se o território já estiver dominado por outra gangue é necessário ter membros da gangue dominante online para realizar uma ação de conquista.
+RF5 - Máximo de gangues ao tentar dominar ou continuar dominante do território são 8 players.
+RF6 - É obrigatório estar no discord quando estiver in-game.
+RF7 - É permitido o uso de mascara em ações, mas se for pego usando fora de ações criminosas o individuo ira levar uma multa. (podendo até mesmo ser conduzido a delegacia para mais esclarecimentos)
+RF8 - Extremamente proibido sequestrar policiais sem motivos.
+RF9 - Extremamente proibido fazer alianças entre facções.
+RF10 - Não é permitido negócio entre gangues como lavarem dinheiro juntas ou traficarem juntas.
+
+REGRAS DE FAVELAS
+RF1 - Favelas tem PVP liberado, sendo assim qualquer um está sujeito a ser morto por estar em uma favela. Salve exceção de players normais os quais devem ser abordados antes pra se verificar se tem autorização da facção para frequentar a favela, e dessa forma realizar farms.
+RF2 - Facções podem entrar em favelas opostas, com motivo plausível ou não. Lembrando que não é permitido emboscadas após ações e emboscadas que estejam esperando mais de 30 minutos por facções ou máfias.
+RF3 - As favelas são dominadas por FACÇÕES  sendo assim fica á critério deles acontecer cobrança de impostos pela "segurança" dos moradores ou entrada de alguém na favela, mas jamais atirando sem abordar antes.  (Facções devem evitar chamar atenção de policiais na favela).
+RF4 - Pode acontecer a pacificação de favelas, mas deve ser avisada com antecedência pelos policiais.
+RF5 - Pacificação pode durar ate 12/24 horas (tempo real) dessa forma facções ficam fora dessa favela, desrespeitar a regra gera punição. 
+RF6 - Quando acontecer dominação de favelas, a facção que perder a favela só poderá tentar a retomada do mesmo após 24 Horas (Tempo Real)
+RF7 - Após morrer em uma dominação de favelas, o mesmo não poderá voltar para a mesma ação.
+RF8 - Para iniciar a dominação de favela terá que ter no mínimo 4 pessoas da facção atacada para defende-lá. (Apenas os CHEFES e SUB-CHEFES da facção poderão anunciar a dominação.)
+RF9 - Ao invadir a facção rival, Entende-se que os membros que estão na favela são os membros que estão no radinho. Reiterando, é obrigação de membros de facções estarem no Radinho.
+RF10 - Emboscadas não são permitidas nas favelas por facções rivais.
+RF11 - A entrada de pessoas na favela portando arma e sem aviso prévio de entrada, poderá acarretar de troca de tiros sem RP.
+RF12 - Helicópteros e aeronaves podem ser abatidos sem aviso prévio da facção, caso sobrevoem a favela.
+RF13 - Membros de Máfia podem subir favela e realizar ações, não é permitido emboscadas. Entende-se que a Máfia gera o tráfico de armas e tendo os membros de facções como clientes ativos não se deve ferir o RP causando brigas desnecessárias por tédio ou afins. Caso ocorra motivo, sendo resumido, membros da máfia entram na favela, procuram, matam, loteiam e saem.
+ABORDAGEM e EMBOSCADAS
+
+RAE1 - Toda ABORDAGEM ou EMBOSCADA realizada contra a PM devem ter algum RP de rendição que anteceda a troca de tiros;
+RAE2 - Apenas os abordados na ação podem reagir ou trocar tiros sem prévio de RP pois já estão na ação, considerando as regras de amor à vida;
+RAE3 - Se as pessoas de FORA da abordagem atirarem nos envolvidos a ação será considerada RDM, pois deve ocorrer um RP prévio para quem não está na abordagem;
+RAE4 - Está proibida a emboscada contra Policiais (COP-BAIT) fora de zonas de PVP e ações de assalto ou seja não cometer COP BAIT (Chamar atenção da PM para armar emboscada usando de tiros para o alto ou furto de veiculo o qual gera alerta);
+RAE5 - A execução de policiais só é permitida em zonas de PVP e/ou ações de sequestro do policial;
+RAE6 - Automaticamente, em uma abordagem, você tem os meios de comunicação cortados. Não sendo necessário anúncio de quem aborda.
+DISCORD:bust_in_silhouette:
+Obrigatorio usar o discord do servidor caso não esteja usando sera removido da facção ou organização.

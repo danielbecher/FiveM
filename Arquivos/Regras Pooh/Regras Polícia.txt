@@ -1,0 +1,34 @@
+RDEGRAS DE ABORDAGENS DA POLÍCIA PUZZLE
+
+AP1 - A polícia em patrulha pode abordar qualquer civil suspeito, seja em veículo ou a pé. Regra não vale para a safe zone.
+AP2 - A polícia pode abordar qualquer civil na rua ou em safe´s zone contanto que tenha uma denúncia formalizada com a identificação e delação do denunciante.
+AP3 - A polícia pode abordar qualquer civil que porte arma em mãos, seja na rua ou em safe zone.
+AP4 - Após 15 segundos de fuga da policia, é liberado abrir fogo contra os pneus do veículo em fuga, se, mesmo assim, o meliante der seguimento a fuga, a polícia tem ordem para realizar a "manobra pit" e tentar desestabilizar o carro e/ou realizar emboscadas táticas para furar o pneu do carro. Por fim, fica a critério do COPOM ou superior presente, atirar para matar.
+AP5 - A polícia, acima de tudo, tem que abordar e tratar o cidadão com respeito e dignidade, mesmo que este seja um contraventor.
+AP6 - A polícia pode abrir fogo contra qualquer civil suspeito caso tenha sido alvejada ou ameaçada com arma em uma ação de rua no local.
+AP7 - Os policiais mortos em ação deverão estar com as devidas armas utilizadas em suas mochilas, assim como os bandidos mortos em ação devem estar com as armas na mochila também.(Exclusão será motivo para punição)
+AP8 - A polícia, após efetuar prisão de meliante, pode arrasta-lo caso ele se recuse ou desobedeça o primeiro comando de entrada na viatura.
+AP9 - Em caso de confronto entre facções/máfias na cidade, a policia pode e deve interferir na ação pelo bem da ordem pública.
+AP10 - É proibido "cop bait".
+AP12 - Em caso de abordagem correta de sequestro/assalto, o policial deve aceitar e se entregar aos bandidos.
+AP13 - Caso seja encontrada droga na abordagem, a policia poderá prender apenas as pessoas que portarem mais que 4 unidades de droga, 4 unidades de tartaruga ou 4 unidades de madeira em si ou no veículo.
+AP14 - Em abordagens, trajes de mergulho, colete 50%, não serão considerados itens ilegais. Apenas o colete tático será considerado ilegal. 
+AP15 - Em caso de abordagem, se o cidadão possuir porte de arma porém estiver com a ficha suja na delegacia, o porte de armas será removido e ele responderá pelo crime de porte ilegal de arma.
+AP16 - Em caso de blitz, o número mínimo de policiais em patrulha são 2 (além dos policias da blitz), e, em hipótese alguma, a polícia em blitz deve ser recebida á tiros pelos bandidos ou sofrer algum tipo de emboscada. Troca de tiros apenas em caso de perseguição, dada a regra AP4.
+AP17 - Em caso de abordagem, se o cidadão possuir arma branca, ele não precisará portar o porte de armas, porém poderá ter suas armas apreendidas e responder pelo porte de arma branca, caso não possua um motível crível para o mesmo.
+AP18 - Em caso de ações de rua, policiais que estiverem online porém fora de serviço (a paisana), poderão entrar em serviço e ajudar na ação ou dar suporte a paisana.
+REGRAS DE EXECUÇÃO
+
+E1 - Não poderá ocorrer execução sem PM em patrulha (mínimo de 3 em patrulha).
+E2 - Proibido ocorrer execução de qualquer pessoa por motivos banais (idiotas).
+E3 - Ao ser executado, a vítima em questão decidirá se irá mudar de personagem ou continuar com o mesmo.
+E4 - O executado deverá esquecer todos os acontecimentos e/ou "rixas" ocorridos antes da execução.
+E5 - EXPRESSAMENTE PROIBÍDO LEVAR QUALQUER TIPO DE RICHA DE FORA DO RP COMO MOTIVO PARA A EXECUÇÃO. (ANTI-RP PASSÍVEL DE BAN)
+E7 - Caso a pessoa seja executada, não será obrigada a mudar o personagem, mas sim esquecer de tudo. Caso a pessoa não cumpra a regra e volte atrás de vingança, será severamente punida.
+E8 - Caso a pessoa seja contratada para executar alguém, esta deve ter a print do contrato de execução e o print/vídeo da execução do civil.
+E9 - O executor é obrigado a ter um motivo e provas relevantes para efetuar a execução.
+E10 - NPCs (os famosos americanos) são cidadãos como todos nós, matar NPCs infere na regra de execuções/ações como se fosse uma pessoa normal. As leis se aplicam e as punições idem.
+LEI BRANCA
+
+Quando instaurada LEI BRANCA é estritamente proibido cometer crimes, assaltos, sequestros, roubos, brigas etc.. 
+A LEI BRANCA se encerra apenas quando for avisado por um ADMIN encerrando assim o EVENTO.

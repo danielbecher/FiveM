@@ -1,0 +1,9 @@
+Grand Theft Auto V\mods\x64w.rpf\dlcpacks\mphipster\dlc.rpf\x64\models\cdimages\mphipster.rpf\mp_f_freemode_01_female_freemode_hipster
+
+
+___________________________________________
+Put jbib_002_u.ydd here too:
+
+Grand Theft Auto V\mods\update\x64\dlcpacks\patchday3ng\dlc.rpf\x64\models\cdimages\patchday3ng_f_outfits.rpf\mp_f_freemode_01_female_freemode_hipster
+_________________________________________________________________________________________________________________________________________________________
+
