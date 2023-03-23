@@ -6,9 +6,6 @@ citizen/
 *.rar
 *.exe
 *.zip
-*.ymap
-*.ybn
-*.ytyp
 *.dll
 *.crt
 *.key
@@ -16,9 +13,12 @@ citizen/
 *.json
 
 #FiveM Maps
+*.ymap
 *.ydr
 *.pdb
 *.ytd
 *.ycd
 *.ydr
 *.ydd
+*.ybn
+*.ytyp
