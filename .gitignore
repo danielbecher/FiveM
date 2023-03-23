@@ -1,0 +1,11 @@
+cache/
+
+#filetypes
+*.rar
+*.exe
+*.zip
+*.ymap
+*.ybn
+*.ytyp
+*.lua
+*.dll
