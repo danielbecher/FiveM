@@ -14,3 +14,11 @@ citizen/
 *.key
 *.dat
 *.json
+
+#FiveM Maps
+*.ydr
+*.pdb
+*.ytd
+*.ycd
+*.ydr
+*.ydd
